@@ -1,0 +1,8 @@
+{
+    "alias": "edutalk-pages",
+    "name": "Pages",
+    "author": "Vuong Pham - <a href=\"https://github.com/vuong.pham\">https://github.com/vuong.pham</a>",
+    "description": "Pages management package",
+    "namespace": "Edutalk\\Base\\Pages",
+    "autoload": "psr-4"
+}
