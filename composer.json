@@ -3,6 +3,10 @@
     "description": "Edutalk pages management",
     "license": "MIT",
     "homepage": "http://edutalk.vn",
+    "support": {
+        "issues": "https://github.com/maduong/pages/issues",
+        "source": "https://github.com/maduong/pages"
+    },
     "authors": [
         {
             "name": "Vuong Pham",
